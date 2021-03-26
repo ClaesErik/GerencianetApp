@@ -1,0 +1,4 @@
+include ':gerencianet_edit2'
+include ':gerencianet_edit'
+include ':app'
+rootProject.name = "GerencianetApp"
